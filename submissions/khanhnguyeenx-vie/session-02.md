@@ -1,4 +1,4 @@
-# Session 01 - Blockchain Fundamentals
+# Session 02 - Blockchain Fundamentals
 
 - Student: Nguyễn Ngọc Bảo Khanh
 - GitHub: [@khanhnguyeenx-vie](https://github.com/khanhnguyeenx-vie)
